@@ -5,18 +5,18 @@ Overview
 SB Technoword is a professional business website built using PHP, HTML, CSS, and JavaScript, designed to showcase the company's products and services. The website provides an intuitive and user-friendly experience, allowing visitors to explore company offerings, contact the team, and learn more about the business.
 
 Features
-✅ Responsive Design: Fully optimized for desktop, tablet, and mobile devices.
-✅ Product Showcase: Displays a detailed catalog of company products.
-✅ Service Pages: Information on business services and solutions.
-✅ Contact Form: Enables customers to get in touch easily.
-✅ SEO Optimization: Ensures better visibility on search engines.
-✅ Fast Performance: Optimized for quick loading and smooth user experience.
+1. Responsive Design: Fully optimized for desktop, tablet, and mobile devices.
+2. Product Showcase: Displays a detailed catalog of company products.
+3. Service Pages: Information on business services and solutions.
+4. Contact Form: Enables customers to get in touch easily.
+5. SEO Optimization: Ensures better visibility on search engines.
+6. Fast Performance: Optimized for quick loading and smooth user experience.
 
 Technology Stack
-Frontend: HTML, CSS, JavaScript, Bootstrap
-Backend: PHP
-Database: MySQL (if applicable)
-Hosting: cPanel
+*. Frontend: HTML, CSS, JavaScript, Bootstrap
+*. Backend: PHP
+*. Database: MySQL (if applicable)
+*. Hosting: cPanel
 
 Installation & Setup
 1. Clone the Repository
